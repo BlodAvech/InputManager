@@ -1,4 +1,4 @@
- qpublic static class ActionMapNames
+ public static class ActionMapNames
 {
     public const string Player = "Player";
 }
